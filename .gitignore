@@ -1,0 +1,16 @@
+# virtual env
+venv/
+.venv/
+LSTM-Actions-Recognition/venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# model files (nếu không muốn đưa lên git)
+*.h5
+*.pkl
+
+# data/output (tuỳ bạn)
+LSTM-Actions-Recognition/data/
+LSTM-Actions-Recognition/assets/
